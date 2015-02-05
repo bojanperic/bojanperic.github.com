@@ -39,3 +39,5 @@ So out of 50 general practitioners, 50 dieticians and 50 personal trainers less 
 This is starting to get a little long and so we’ll explore why fat breakfast and carb dinners might be a good idea next week.
 
 Thoughts? Questions? Until next week!
+
+![asdf](/content/2015/01/31/saturated-fat/figure1.jpg)
